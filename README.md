@@ -1,2 +1,0 @@
-# Chaitra-
-Myself Challa usharani 
