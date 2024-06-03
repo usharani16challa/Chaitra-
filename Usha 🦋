@@ -1,5 +1,5 @@
 /*
-   Tome Complexity: 0(N)
+   Time Complexity: 0(N)
 Space Complexity : 0(1)
 Where N is the size of the array .
 */
